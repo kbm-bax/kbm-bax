@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="168" viewBox="0 0 640 168" role="img" aria-label="Currently learning Rust and WebAssembly, building APIs and Kubernetes platforms">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#121a2c"/>
+      <stop offset="100%" stop-color="#0b101b"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="168" rx="14" fill="url(#panel)" stroke="#243049" stroke-width="1.5"/>
+  <circle cx="28" cy="26" r="5" fill="#c9956a"/>
+  <circle cx="46" cy="26" r="5" fill="#8d877c" fill-opacity="0.7"/>
+  <circle cx="64" cy="26" r="5" fill="#8d877c" fill-opacity="0.4"/>
+  <text x="86" y="31" fill="#d4a574" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2">NOW</text>
+
+  <text x="28" y="72" fill="#d4a574" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">learning</text>
+  <text x="168" y="72" fill="#f6f1e7" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">Rust, WebAssembly</text>
+
+  <text x="28" y="104" fill="#d4a574" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">building</text>
+  <text x="168" y="104" fill="#f6f1e7" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">APIs, Kubernetes, data platforms</text>
+
+  <text x="28" y="136" fill="#d4a574" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">exploring</text>
+  <text x="168" y="136" fill="#f6f1e7" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">AI on top of reliable systems</text>
+</svg>
