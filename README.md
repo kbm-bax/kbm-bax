@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kbm-bax (Muthukumar KB)
-- 👀 I’m interested in Infrastructure, Platform Engineering, Web, AI Technologies
-- 🌱 I’m currently learning Rust, WebAssembly, 
+- 👀 I’m interested in Infrastructure, Platform Engineering, Web, AI Technologies, Data Science/Engineering
+- 🌱 I’m currently learning Rust, WebAssembly
 
 
 <!---
